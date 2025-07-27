@@ -7,7 +7,6 @@ Apply filters, search, and sort large datasets with ease.
 Upload CSV/Excel files and export reports in various formats.
 
 
-
 💻 Technologies Used:
 
 Python – Core language for backend logic and data processing
